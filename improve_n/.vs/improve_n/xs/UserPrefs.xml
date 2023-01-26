@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/button.cs">
+    <Files>
+      <File FileName="Assets/Script/humidai.cs" Line="7" Column="1" />
+      <File FileName="Assets/Script/player.cs" Line="170" Column="9" />
+      <File FileName="Assets/HiraganaManager.cs" Line="129" Column="75" />
+      <File FileName="Assets/PlayerMove.cs" Line="25" Column="6" />
+      <File FileName="Assets/Script/Timer.cs" Line="12" Column="15" />
+      <File FileName="Assets/Script/hyouka.cs" Line="21" Column="15" />
+      <File FileName="Assets/Script/Loadtime.cs" Line="24" Column="24" />
+      <File FileName="Assets/Script/button.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="improve_n" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Script" expanded="True">
+                  <Node name="button.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
